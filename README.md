@@ -19,5 +19,6 @@ Have to create various algorithms for providing solutions and creating file arch
 ![ca2](https://github.com/Saad276/CastingPax/assets/96050684/3c6d0c77-a8e1-4555-a838-51458b7a8b77)
 ![ca3](https://github.com/Saad276/CastingPax/assets/96050684/ed81c322-be55-4634-81bc-37cfb7bbe9e2)
 ![ca4](https://github.com/Saad276/CastingPax/assets/96050684/e0b4fc03-9001-46cf-bb35-5ab896d83fe6)
+![ca7](https://github.com/Saad276/CastingPax/assets/96050684/5010e485-7128-42c1-9af2-6d773c0e21c8)
 
-![Uploading ca7.png…]()
+
